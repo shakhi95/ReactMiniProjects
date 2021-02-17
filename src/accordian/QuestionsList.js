@@ -15,7 +15,7 @@ const QuestionsList = () => {
     <div className="container-fluid min-vh-100 bg-secondary py-5">
       <div className="row">
         <div className="col-md-10 col-lg-8 mx-auto">
-          <div className="card p-5 shadow">
+          <div className="card p-3 p-sm-5 shadow">
             <div className="row">
               <div className="col-md-4">
                 <h1>Question And Answers About Login</h1>

@@ -13,7 +13,7 @@ const Question = ({ que }) => {
         style={{ cursor: "pointer" }}
       >
         <h6 className="m-0">{que.title}</h6>
-        <div className="text-primary">
+        <div className="ms-3 text-primary">
           {isActive ? <FaMinusCircle /> : <FaPlusCircle />}
         </div>
       </div>
