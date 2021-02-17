@@ -1,14 +1,12 @@
 import React from "react";
 
-import img from "./images/item-1.jpeg";
-
 const MenuItem = ({ item }) => {
   //
   return (
     <div className="row my-4">
       <div className="col-sm-4 px-sm-0">
         <img
-          src="https://raw.githubusercontent.com/shakhi95/iranDecor-Store/main/src/assets/hero-bcg-2.jpeg"
+          src={item.img}
           alt={item.title}
           style={{
             width: "100%",
