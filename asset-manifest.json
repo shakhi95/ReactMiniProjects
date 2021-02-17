@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactMiniProjects/static/css/main.555fe304.chunk.css",
+    "main.js": "/ReactMiniProjects/static/js/main.fc761d14.chunk.js",
+    "main.js.map": "/ReactMiniProjects/static/js/main.fc761d14.chunk.js.map",
+    "runtime-main.js": "/ReactMiniProjects/static/js/runtime-main.2024c020.js",
+    "runtime-main.js.map": "/ReactMiniProjects/static/js/runtime-main.2024c020.js.map",
+    "static/js/2.34b42e08.chunk.js": "/ReactMiniProjects/static/js/2.34b42e08.chunk.js",
+    "static/js/2.34b42e08.chunk.js.map": "/ReactMiniProjects/static/js/2.34b42e08.chunk.js.map",
+    "index.html": "/ReactMiniProjects/index.html",
+    "static/css/main.555fe304.chunk.css.map": "/ReactMiniProjects/static/css/main.555fe304.chunk.css.map",
+    "static/js/2.34b42e08.chunk.js.LICENSE.txt": "/ReactMiniProjects/static/js/2.34b42e08.chunk.js.LICENSE.txt",
+    "static/media/hero.acf1e00e.svg": "/ReactMiniProjects/static/media/hero.acf1e00e.svg",
+    "static/media/phone.94a7a4fe.svg": "/ReactMiniProjects/static/media/phone.94a7a4fe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2024c020.js",
+    "static/js/2.34b42e08.chunk.js",
+    "static/css/main.555fe304.chunk.css",
+    "static/js/main.fc761d14.chunk.js"
+  ]
+}
